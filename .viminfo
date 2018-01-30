@@ -1,0 +1,319 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 命令行 历史记录 (从新到旧)：
+:wq
+:w
+
+# 查找字符串 历史记录 (从新到旧)：
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+""1	LINE	0
+	sal_needtax
+"2	LINE	0
+	
+	
+"3	LINE	0
+	
+"4	LINE	0
+	
+"5	LINE	0
+	
+"6	LINE	0
+	    yns=ynssde*30% - 2755
+	elif ynssde >55000 <=80000
+	    yns=ynssde*35-5505
+	elif ynssde >80000
+	    yns=ynssde*45%-13505
+	
+	print(yns)
+	
+"7	LINE	0
+	elif ynssde >35000 <=55000
+"8	LINE	0
+	###
+	ynssde=gz-3500
+	if ynssde <=1500
+	    yns=ynssde*3% - 0
+	elif ynssde >1500 <=4500
+	    yns=ynssde*10% - 105
+	elif ynssde >4500 <=9000
+	    yns=ynssde*20% - 555
+	elif ynssde >9000 <=35000
+	    yns=ynssde*25% - 1005
+"9	LINE	0
+	
+"-	CHAR	0
+	=
+
+# 文件标记:
+'0  14  24  ~/Code/calculator2.py
+'1  1  0  ~/Code/calculator02.py
+'2  1  9  ~/Code/calculator2.py
+'3  35  0  ~/Code/calculator2.py
+'4  36  0  ~/calculator.py
+'5  35  23  ~/calculator.py
+'6  20  12  ~/calculator.py
+'7  2  9  ~/calculator.py
+'8  1  2  ~/calculator.py
+'9  1  0  ~/calculate
+
+# 跳转列表 (从新到旧):
+-'  14  24  ~/Code/calculator2.py
+-'  1  0  ~/Code/calculator2.py
+-'  1  0  ~/Code/calculator02.py
+-'  35  0  ~/Code/calculator2.py
+-'  36  0  ~/calculator.py
+-'  1  0  ~/calculator.py
+-'  35  23  ~/calculator.py
+-'  20  12  ~/calculator.py
+-'  2  9  ~/calculator.py
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+-'  2  16  ~/calculate
+-'  23  0  ~/calculate
+-'  8  0  ~/calculate
+-'  17  4  ~/calculate
+-'  18  3  ~/calculate
+-'  21  0  ~/calculate
+-'  6  0  ~/calculate
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+-'  2  16  ~/calculate
+-'  23  0  ~/calculate
+-'  8  0  ~/calculate
+-'  17  4  ~/calculate
+-'  18  3  ~/calculate
+-'  21  0  ~/calculate
+-'  6  0  ~/calculate
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+-'  2  16  ~/calculate
+-'  23  0  ~/calculate
+-'  8  0  ~/calculate
+-'  17  4  ~/calculate
+-'  18  3  ~/calculate
+-'  21  0  ~/calculate
+-'  6  0  ~/calculate
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+-'  2  16  ~/calculate
+-'  23  0  ~/calculate
+-'  8  0  ~/calculate
+-'  17  4  ~/calculate
+-'  18  3  ~/calculate
+-'  21  0  ~/calculate
+-'  6  0  ~/calculate
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+-'  2  16  ~/calculate
+-'  23  0  ~/calculate
+-'  8  0  ~/calculate
+-'  17  4  ~/calculate
+-'  18  3  ~/calculate
+-'  21  0  ~/calculate
+-'  6  0  ~/calculate
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+-'  2  16  ~/calculate
+-'  23  0  ~/calculate
+-'  8  0  ~/calculate
+-'  17  4  ~/calculate
+-'  18  3  ~/calculate
+-'  21  0  ~/calculate
+-'  6  0  ~/calculate
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+-'  2  16  ~/calculate
+-'  23  0  ~/calculate
+-'  8  0  ~/calculate
+-'  17  4  ~/calculate
+-'  18  3  ~/calculate
+-'  21  0  ~/calculate
+-'  6  0  ~/calculate
+-'  1  0  ~/calculate
+-'  3  0  ~/calculate
+-'  4  26  ~/calculate
+-'  19  4  ~/calculate
+-'  20  3  ~/calculate
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/Code/calculator2.py
+	"	14	24
+	^	14	25
+	.	14	24
+	+	8	19
+	+	4	19
+	+	8	4
+	+	9	20
+	+	21	20
+	+	17	12
+	+	19	20
+	+	25	21
+	+	27	1
+	+	25	6
+	+	34	22
+	+	1	0
+	+	14	24
+
+> ~/Code/calculator02.py
+	"	1	0
+
+> ~/calculator.py
+	"	36	0
+	^	35	24
+	.	35	23
+	+	42	6
+	+	6	9
+	+	2	0
+	+	8	2
+	+	8	0
+	+	6	9
+	+	10	0
+	+	4	19
+	+	8	3
+	+	9	3
+	+	35	3
+	+	12	10
+	+	2	16
+	+	18	10
+	+	20	19
+	+	31	29
+	+	35	9
+	+	33	13
+	+	1	2
+	+	16	12
+	+	18	16
+	+	20	19
+	+	22	19
+	+	25	20
+	+	24	20
+	+	26	21
+	+	28	21
+	+	30	14
+	+	18	11
+	+	20	13
+	+	22	14
+	+	24	14
+	+	26	15
+	+	28	15
+	+	20	14
+	+	35	12
+	+	36	0
+	+	2	9
+	+	20	12
+	+	35	23
+
+> ~/calculate
+	"	1	0
+	^	3	0
+	.	4	26
+	+	1	22
+	+	37	46
+	+	37	39
+	+	1	22
+	+	37	49
+	+	37	29
+	+	37	5
+	+	37	14
+	+	37	0
+	+	37	0
+	+	37	16
+	+	37	12
+	+	37	19
+	+	37	24
+	+	37	14
+	+	37	16
+	+	37	23
+	+	37	15
+	+	37	0
+	+	37	9
+	+	37	0
+	+	1	32
+	+	37	24
+	+	37	23
+	+	37	24
+	+	37	24
+	+	1	106
+	+	1	31
+	+	1	56
+	+	37	0
+	+	1	75
+	+	1	72
+	+	1	72
+	+	1	72
+	+	1	22
+	+	2	41
+	+	7	3
+	+	5	26
+	+	9	16
+	+	7	15
+	+	17	15
+	+	15	22
+	+	17	16
+	+	18	19
+	+	14	21
+	+	16	21
+	+	18	27
+	+	14	27
+	+	16	27
+	+	19	29
+	+	18	28
+	+	22	10
+	+	7	15
+	+	2	16
+	+	7	20
+	+	9	22
+	+	11	22
+	+	13	23
+	+	15	23
+	+	17	23
+	+	8	22
+	+	10	22
+	+	12	22
+	+	14	23
+	+	16	23
+	+	18	23
+	+	19	4
+	+	20	3
+	+	19	4
+	+	37	0
+	+	2	43
+	+	4	20
+	+	3	9
+	+	7	0
+	+	4	26

@@ -1,0 +1,25 @@
+{
+  "name": "headless-terminal",
+  "version": "0.4.0",
+  "description": "Headless xterm emulator using vt (terminal.js).",
+  "main": "headless-terminal.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtinth/headless-terminal.git"
+  },
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "vt": "~0.1.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  },
+  "peerDependencies": {
+    "screen-buffer": "~0.4.0"
+  }
+}

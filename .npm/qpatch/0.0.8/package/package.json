@@ -1,0 +1,28 @@
+{
+  "name": "qpatch",
+  "version": "0.0.8",
+  "description": "Module for patching JS Classes using callbacks to use Q promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FriendCode/qpatch.git"
+  },
+  "keywords": [
+    "Q",
+    "promises",
+    "patch",
+    "callbacks",
+    "class",
+    "classes",
+    "methods"
+  ],
+  "dependencies": {
+    "q": "0.9.6",
+    "underscore": "1.4.4"
+  },
+  "author": "aaron.omullan@friendco.de",
+  "license": "Apache v2"
+}

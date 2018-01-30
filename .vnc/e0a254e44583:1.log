@@ -1,0 +1,231 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.5.0 - built Jul 12 2015 15:34:23
+Copyright (C) 1999-2015 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11501000, The X.Org Foundation
+
+Initializing built-in extension VNC-EXTENSION
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension GLX
+
+Tue Jan 30 11:34:10 2018
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+/usr/bin/startxfce4: X server already running on display :1
+Smart Common Input Method 1.4.14
+
+Launching a SCIM process with x11...
+Loading simple Config module ...
+Creating backend ...
+
+Tue Jan 30 11:34:14 2018
+ Connections: accepted: 192.168.40.3::37636
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+Loading x11 FrontEnd module ...
+GTK Panel of SCIM 1.4.14
+
+_IceTransmkdir: ERROR: euid != 0,directory /tmp/.ICE-unix will not be created.
+
+** (scim-panel-gtk:70): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(xfsettingsd:92): libupower-glib-WARNING **: Couldn't connect to system bus: Failed to connect to socket /var/run/dbus/system_bus_socket: 没有那个文件或目录
+No window manager registered on screen 0. To start the xfdesktop without this check, run with --disable-wm-check.
+
+** (xfdesktop:89): WARNING **: Thumbnailer failed calling GetFlavors
+xfce4-panel: No window manager registered on screen 0. To start the panel without this check, run with --disable-wm-check.
+
+(xfsettingsd:92): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+Starting SCIM as daemon ...
+SCIM has been successfully launched.
+
+Tue Jan 30 12:51:48 2018
+ Connections: closed: 192.168.40.3::37636 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 2439
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 59 rects, 2.59059 Mpixels
+ EncodeManager:            1.15234 KiB (1:8782.27 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 65 rects, 3.10397 Mpixels
+ EncodeManager:                 4.6543 KiB (1:2605.26 ratio)
+ EncodeManager:     Indexed RLE: 2.429 krects, 22.0403 Mpixels
+ EncodeManager:                  775.483 KiB (1:111.058 ratio)
+ EncodeManager:     Full Colour: 2.285 krects, 29.9926 Mpixels
+ EncodeManager:                  4.17091 MiB (1:27.4374 ratio)
+ EncodeManager:   Total: 4.838 krects, 57.7275 Mpixels
+ EncodeManager:          4.93389 MiB (1:44.6439 ratio)
+
+Tue Jan 30 12:51:53 2018
+ Connections: accepted: 192.168.40.3::38095
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue Jan 30 13:01:45 2018
+ Connections: accepted: 192.168.40.3::38155
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue Jan 30 13:02:35 2018
+ Connections: accepted: 192.168.40.3::38161
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue Jan 30 13:02:51 2018
+ Connections: closed: 192.168.40.3::38155 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 56
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 14 rects, 2.128 kpixels
+ EncodeManager:            280 B (1:31 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 7 rects, 1.184 kpixels
+ EncodeManager:                 229 B (1:21.048 ratio)
+ EncodeManager:     Indexed RLE: 33 rects, 5.312 kpixels
+ EncodeManager:                  1.51953 KiB (1:13.91 ratio)
+ EncodeManager:     Full Colour: 61 rects, 806.612 kpixels
+ EncodeManager:                  89.209 KiB (1:35.3276 ratio)
+ EncodeManager:   Total: 115 rects, 815.236 kpixels
+ EncodeManager:          91.2256 KiB (1:34.9229 ratio)
+
+Tue Jan 30 13:04:08 2018
+ Connections: accepted: 192.168.40.3::38169
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue Jan 30 13:04:47 2018
+ Input:       Added unknown keysym 0x1003002 to keycode 255
+
+Tue Jan 30 13:09:11 2018
+ Connections: accepted: 192.168.40.3::38203
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+ Connections: closed: 192.168.40.3::38169 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 1007
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 169 rects, 40.507 kpixels
+ EncodeManager:            3.30078 KiB (1:48.5373 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 16 rects, 18.752 kpixels
+ EncodeManager:                 508 B (1:148.031 ratio)
+ EncodeManager:     Indexed RLE: 1.063 krects, 4.04638 Mpixels
+ EncodeManager:                  204.282 KiB (1:77.4352 ratio)
+ EncodeManager:     Full Colour: 1.436 krects, 23.5299 Mpixels
+ EncodeManager:                  4.02272 MiB (1:22.3171 ratio)
+ EncodeManager:   Total: 2.684 krects, 27.6355 Mpixels
+ EncodeManager:          4.22592 MiB (1:24.9535 ratio)
+
+Tue Jan 30 13:09:13 2018
+ Connections: closed: 192.168.40.3::38161 (write: Broken pipe (32))
+ EncodeManager: Framebuffer updates: 277
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 145 rects, 24.944 kpixels
+ EncodeManager:            2.83203 KiB (1:35.0055 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 18 rects, 18.864 kpixels
+ EncodeManager:                 592 B (1:127.824 ratio)
+ EncodeManager:     Indexed RLE: 217 rects, 103.648 kpixels
+ EncodeManager:                  9.12109 KiB (1:44.6677 ratio)
+ EncodeManager:     Full Colour: 182 rects, 1.62626 Mpixels
+ EncodeManager:                  248.643 KiB (1:25.5576 ratio)
+ EncodeManager:   Total: 562 rects, 1.77371 Mpixels
+ EncodeManager:          261.174 KiB (1:26.5538 ratio)
+
+Tue Jan 30 13:36:30 2018
+ Connections: accepted: 192.168.40.3::38356
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue Jan 30 13:36:43 2018
+ Connections: closed: 192.168.40.3::38203 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 1909
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 303 rects, 43.696 kpixels
+ EncodeManager:            5.91797 KiB (1:29.4422 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 17 rects, 2.672 kpixels
+ EncodeManager:                 522 B (1:20.8659 ratio)
+ EncodeManager:     Indexed RLE: 1.04 krects, 2.0272 Mpixels
+ EncodeManager:                  133.567 KiB (1:59.3778 ratio)
+ EncodeManager:     Full Colour: 2.627 krects, 19.402 Mpixels
+ EncodeManager:                  3.47832 MiB (1:21.2869 ratio)
+ EncodeManager:   Total: 3.987 krects, 21.4755 Mpixels
+ EncodeManager:          3.61503 MiB (1:22.6743 ratio)
+
+Tue Jan 30 14:01:23 2018
+ Connections: closed: 192.168.40.3::38356 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 1063
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 324 rects, 46.816 kpixels
+ EncodeManager:            6.32812 KiB (1:29.4988 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 2 rects, 288 pixels
+ EncodeManager:                 63 B (1:18.6667 ratio)
+ EncodeManager:     Indexed RLE: 968 rects, 2.85194 Mpixels
+ EncodeManager:                  203.429 KiB (1:54.8188 ratio)
+ EncodeManager:     Full Colour: 891 rects, 6.30192 Mpixels
+ EncodeManager:                  894.486 KiB (1:27.5324 ratio)
+ EncodeManager:   Total: 2.185 krects, 9.20096 Mpixels
+ EncodeManager:          1.07842 MiB (1:32.5697 ratio)
+
+Tue Jan 30 14:59:11 2018
+ Connections: accepted: 192.168.40.3::38887
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Tue Jan 30 14:59:14 2018
+ Connections: closed: 192.168.40.3::38095 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 6229
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 65 rects, 61.312 kpixels
+ EncodeManager:            1.26953 KiB (1:189.252 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 28 rects, 135.168 kpixels
+ EncodeManager:                 980 B (1:552.049 ratio)
+ EncodeManager:     Indexed RLE: 5.895 krects, 30.3202 Mpixels
+ EncodeManager:                  1.85699 MiB (1:62.3213 ratio)
+ EncodeManager:     Full Colour: 8.152 krects, 132.204 Mpixels
+ EncodeManager:                  22.5599 MiB (1:22.3588 ratio)
+ EncodeManager:   Total: 14.14 krects, 162.721 Mpixels
+ EncodeManager:          24.4191 MiB (1:25.4265 ratio)
+
+(xfce4-terminal:506): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed

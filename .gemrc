@@ -1,0 +1,8 @@
+---
+:backtrace: false
+:benchmark: false
+:bulk_threshold: 1000
+:sources:
+- http://mirrors.aliyuncs.com/rubygems/
+:update_sources: true
+:verbose: true
